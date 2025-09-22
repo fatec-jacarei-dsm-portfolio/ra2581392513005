@@ -4,5 +4,5 @@
 ### Turma: 1º Semestre de 2025
 
 ### Portfólio Online
-🔗 [Acesse o Portfólio]
+🔗 [Acesse o Portfólio](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392513005/)
 🎤 [Pitch de Apresentação (vídeo)](https://youtu.be/LbWdehQvviw)
